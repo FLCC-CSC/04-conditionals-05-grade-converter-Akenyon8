@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Austin Kenyon
+# DATE: 09/30/2025
+# BRIEF DESCRIPTION: Entering a number to receive a Letter Grade equivalent.
 
 
 
@@ -16,9 +16,7 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
 print('===== Grade Converter =====')
-
 percent = int(input('Enter a numerical grade (1-100): '))
-
 if percent > 100:
     print('A+')
 elif percent >= 90:
@@ -84,7 +82,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+Although a 100 is considered an A+ in this test only anything over 100 is considered an A+.
 
 
 
